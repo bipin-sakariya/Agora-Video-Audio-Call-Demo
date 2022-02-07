@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706597040490",
+    "project_id": "alora-video-call-app",
+    "storage_bucket": "alora-video-call-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706597040490:android:edafe46586b37f7889b513",
+        "android_client_info": {
+          "package_name": "com.example.AgoraDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706597040490-39u0tcig8q8lfj01bqf2e0da8f01den9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.AgoraDemo",
+            "certificate_hash": "57aabe098498a811594b3bd2f4ee5e9ff5847b5a"
+          }
+        },
+        {
+          "client_id": "706597040490-be20lg7rcff735gtq003cd2pb241eote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vv5XkHCZuNRaEObLae6Bc90KSnhn-qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706597040490-be20lg7rcff735gtq003cd2pb241eote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
